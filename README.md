@@ -52,13 +52,11 @@ Some websites may stop embedded viewing. Those websites can be opened in a brows
 
 3. Open your browsers extensions page:
 
-Chrome: `chrome://extensions`
-
-Helium: `helium://extensions`
+Browser link: `*browser name*://extensions`
 
 4. Turn on **Developer mode**.
 
-5. Select **Load **.
+5. Select **Load unpacked**.
 
 6. Choose the extracted `monochromeOS` project folder. The folder containing `manifest.json`.
 
@@ -113,6 +111,7 @@ monochromeOS/
 ## License
 
 No license has been set yet. All rights belong to the project creator unless a license is added.
+
 ## Copyright
 
 Copyright © 2026 monochromeOS. All rights reserved.
